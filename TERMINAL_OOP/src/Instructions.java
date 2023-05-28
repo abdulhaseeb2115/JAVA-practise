@@ -1,0 +1,4 @@
+interface Instructions  {
+
+    int execute();
+}
